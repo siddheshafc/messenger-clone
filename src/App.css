@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
+.App {
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+}
+
+.app__form {
+  font-family: 'Raleway', sans-serif;
+  padding:20px;
+  position: fixed;
+  bottom: 0;
+  width:90%;
+  z-index: 1;
+  background-color: rgb(229, 226, 226);
+  margin:20px;
+}
+
+.app__formControl{
+  display: flex !important;
+  flex-direction: row !important;
+}
+
+.app__input{
+  flex:1;
+}
+
+.app__iconButton{
+  flex:0;
+}
+
+
