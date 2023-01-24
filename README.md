@@ -1,4 +1,4 @@
-Messenger Clone built using React, Firebase and Material UI
+# Messenger Clone built using React, Firebase and Material UI
 
 ## Available Scripts
 
